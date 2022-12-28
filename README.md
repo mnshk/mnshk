@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am currently working on cloud and automation
 
 
