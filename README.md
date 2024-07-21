@@ -1,5 +1,5 @@
 # Hey there!
-i'm Munish and I enjoy using code to make interactive things. I have a keen interest in web development. Ever since writing my first line of code, I was fascinated with the idea of using it to create something awesome.
+I'm Munish and I enjoy using code to make interactive things. I have a keen interest in web development. Ever since writing my first line of code, I was fascinated with the idea of using it to create something awesome.
 
 My interest in Web development started back in 2014, when I came to know about HTML and CSS. I became passionate about technology and focused on building and designing great digital experiences.
 
